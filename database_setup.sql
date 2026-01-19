@@ -1,5 +1,5 @@
 -- Create database
-CREATE DATABASE IF NOT EXISTS train_booking;
+CREATE DATABASE IF NOT EXISTS train_booking; 
 USE train_booking;
 
 -- Create users table
